@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\zombie\zombie\bin\Debug\zombie.exe.config
+C:\Users\HP\source\repos\zombie\zombie\bin\Debug\zombie.exe
+C:\Users\HP\source\repos\zombie\zombie\bin\Debug\zombie.pdb
+C:\Users\HP\source\repos\zombie\zombie\obj\Debug\zombie.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\zombie\zombie\obj\Debug\zombie.Form1.resources
+C:\Users\HP\source\repos\zombie\zombie\obj\Debug\zombie.Properties.Resources.resources
+C:\Users\HP\source\repos\zombie\zombie\obj\Debug\zombie.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\zombie\zombie\obj\Debug\zombie.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\zombie\zombie\obj\Debug\zombie.exe
+C:\Users\HP\source\repos\zombie\zombie\obj\Debug\zombie.pdb
